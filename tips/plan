@@ -1,0 +1,4 @@
+1.了解nem原理
+2.搭建nem 节点
+3.熟悉并调用typescript写的sdk，知道每个api在干什么，并调用他们
+4.自己实现nem的c++ sdk,模仿typescript　sdk的各个api.

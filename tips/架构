@@ -1,0 +1,2 @@
+1.所有transaction有关的都继承于transaction
+2.模型用来新建对象
