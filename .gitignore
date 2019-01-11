@@ -1,2 +1,3 @@
-.vscode/
-accounts
+nem2-sdk-java/
+build/src/test
+file/
